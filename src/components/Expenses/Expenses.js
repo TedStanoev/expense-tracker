@@ -1,7 +1,6 @@
 import ExpenseItem from "./ExpenseItem";
 import Card from "../UI/Card";
 import "./Expenses.css";
-import React from "react";
 
 function Expenses() {
   const expenses = [
